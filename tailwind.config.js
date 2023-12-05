@@ -20,4 +20,27 @@ export default {
     },
 
     plugins: [forms, typography],
+
+   /*  /* corePlugins: {
+        //...
+        container: false,
+    } */
+
+    /* purge: [
+        // ...
+        ".container",
+      ],
+
+    content: [
+        // ...
+        "./resources/css/common.css",
+    ],  */
+      
 };
+
+/* module.exports = {
+    corePlugins: {
+      container: false,
+    },
+    // Resto de la configuración...
+  }; */

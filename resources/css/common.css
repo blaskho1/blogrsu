@@ -1,0 +1,17 @@
+/* @tailwind utilities;
+
+.container {
+  @apply mx-auto;
+}
+
+@media (min-width: 640px) {
+  .container {
+    @apply px-6;
+  }
+}
+
+@media(min-width: 640px){
+  .container{
+    @apply px-8;
+  }
+}  */
